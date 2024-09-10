@@ -1,0 +1,33 @@
+Introduction To Spring Security
+
+->Security is Important
+
+Importance of Security
+->Privacy Protection
+->Trust
+->Integrity
+->Compliance
+
+Role of Spring Security within the Spring Ecosystem
+->Spring Framework
+->Spring Boot
+->Spring Data
+->Spring Security - Authentication, Authorization
+
+Authentication -> is Proving who you are  
+Authorization -> is about what you are allowed to do after you have proven who you are
+
+
+Key Security Principles
+->Least privilege
+->Secured by design
+->Fail- Safe Defaults
+->Secure Communication
+->Input Validation
+->Auditing and Logging
+->Regular Updates and Patch Management
+
+HASHING
+->Hashing involves using algorithms
+
+bcrypt involves using salting
